@@ -1,0 +1,2 @@
+rootProject.name='SwitchActivityExercise'
+include ':app'
